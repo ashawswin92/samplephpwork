@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Testing PHP-2nd Change</h1>
+<h1>Testing PHP Approval </h1>
 
 <?php
-echo "version 1.2";
+echo "version 2.0";
 ?>
 
 </body>
