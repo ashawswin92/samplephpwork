@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Developing PHP Application</h1>
+<h1>Testing PHP</h1>
 
 <?php
-echo "version 1.0";
+echo "version 1.1";
 ?>
 
 </body>
